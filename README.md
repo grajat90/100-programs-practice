@@ -7,5 +7,5 @@ This is a personal project/challenge where I will code 100 programs of varying h
 
 ## These are the programs till now:
 
-1. Ducci Sequence - [Reddit DailyProgrammer thread](https://www.reddit.com/r/dailyprogrammer/comments/8sjcl0/20180620_challenge_364_intermediate_the_ducci/)
+1. Ducci Sequence - [Reddit DailyProgrammer thread](https://www.reddit.com/r/dailyprogrammer/comments/8sjcl0/20180620_challenge_364_intermediate_the_ducci/) - Python 2.7
 
